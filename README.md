@@ -1,4 +1,4 @@
-# Course Scheduler
+# Course Match GMU
 
 A simple web application for students to manage their course schedule and view their friend's schedule. Built with Ruby on Rails and MySQL.
 
